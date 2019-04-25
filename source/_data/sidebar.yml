@@ -1,45 +1,45 @@
 _:
-  Overview: /index.html
-Gameplay:
-  Introduction: /introduction.html
+  总览: /index.html
+游戏:
+  介绍: /introduction.html
   Creeps: /creeps.html
-  Control: /control.html
-  Defense: /defense.html
-  Respawning: /respawn.html
-  Start Areas: /start-areas.html
-  Minerals: /minerals.html
-  Market: /market.html
-  NPC Invaders: /invaders.html
+  控制: /control.html
+  防御: /defense.html
+  重生: /respawn.html
+  起始区域: /start-areas.html
+  矿物: /minerals.html
+  市场: /market.html
+  NPC入侵者: /invaders.html
   Power: /power.html
-Scripting:
+编写脚本:
   Scripting Basics: /scripting-basics.html
-  Global Objects: /global-objects.html
-  Modules: /modules.html
-  Debugging: /debugging.html
-  Game Loop: /game-loop.html
-  External Commit: /commit.html
-  Simultaneous Actions: /simultaneous-actions.html
-  CPU Limit: /cpu-limit.html
+  全局对象: /global-objects.html
+  模块: /modules.html
+  调试: /debugging.html
+  游戏循环: /game-loop.html
+  从外部提交代码: /commit.html
+  同步行动: /simultaneous-actions.html
+  CPU限制: /cpu-limit.html
 
-Other:
-  Server-Side Architecture: /architecture.html
-  Why Subscription?: /subscription.html
-  Public Test Realm (PTR): /ptr.html
-  Third Party Tools: /third-party.html
-  Auth Tokens: /auth-tokens.html
-  Community Servers: /community-servers.html
-  Terms of Service: /tos.html
-  Privacy Policy: /privacy-policy.html
+其他:
+  服务端架构: /architecture.html
+  为什么要订阅?: /subscription.html
+  公共测试服务器(PTR): /ptr.html
+  第三方工具: /third-party.html
+  验证令牌: /auth-tokens.html
+  社区服务器: /community-servers.html
+  ToS: /tos.html
+  隐私政策: /privacy-policy.html
 
-Resources:
-  Blog: http://blog.screeps.com
-  Changelogs: http://blog.screeps.com/categories/Changelogs/
-  Chat: http://chat.screeps.com
-  Forum: https://screeps.com/forum/
+资源:
+  博客: http://blog.screeps.com
+  更新日志: http://blog.screeps.com/categories/Changelogs/
+  聊天: http://chat.screeps.com
+  论坛: https://screeps.com/forum/
 
-Contributed Articles:
-  Contribution Rules: /contributed/rules.html
-  Advanced Grunt Usage: /contributed/advanced_grunt.html
-  Modifying Prototypes: /contributed/modifying-prototypes.html
-  Caching Overview: /contributed/caching-overview.html
-  Private Server MongoDB: /contributed/ps_ubuntu.html
+玩家贡献的文章:
+  贡献规则: /contributed/rules.html
+  Grunt 高级用法: /contributed/advanced_grunt.html
+  修改原型: /contributed/modifying-prototypes.html
+  缓存: /contributed/caching-overview.html
+  使用 MongoDB 配置 Ubuntu 私有服务器: /contributed/ps_ubuntu.html
